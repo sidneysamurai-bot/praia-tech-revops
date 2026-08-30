@@ -1,2 +1,8 @@
-# praia-tech-revops
-A Revenue Operations portfolio project: a mock B2B sales dataset (leads → opportunities → closed revenue) modeled as a working CRM, analyzed with a KPI dashboard, and interpreted through an executive RevOps lens.
+praia-tech-revops/
+├── README.md
+├── praia_tech_revops_dashboard.xlsx   # full workbook: 5 tabs, live formulas, dashboard
+└── data/
+    ├── opportunities.csv              # 40 deals: source, stage, value, probability, dates, owner
+    ├── leads.csv                      # 45 top-of-funnel leads: source, status, conversion, owner
+    ├── reps.csv                       # 3-person sales team: role, monthly target, region
+    └── targets.csv                    # management targets: revenue, coverage, win rate, conversion
