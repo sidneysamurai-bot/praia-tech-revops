@@ -1,0 +1,46 @@
+Lead ID,Lead Source,Lead Date,Lead Status,Converted to Opportunity,Owner
+L-001,LinkedIn,2026-08-01,Qualified,Yes,Sidney
+L-002,Website,2026-08-01,Qualified,Yes,Ana
+L-003,Referral,2026-08-02,Qualified,Yes,Carlos
+L-004,Cold Outreach,2026-08-02,Contacted,No,Sidney
+L-005,LinkedIn,2026-08-03,Qualified,Yes,Ana
+L-006,Website,2026-08-03,Contacted,Yes,Carlos
+L-007,Referral,2026-08-04,Qualified,Yes,Sidney
+L-008,LinkedIn,2026-08-04,Contacted,No,Ana
+L-009,Cold Outreach,2026-08-05,Qualified,Yes,Carlos
+L-010,Website,2026-08-05,Qualified,Yes,Sidney
+L-011,Referral,2026-08-06,Contacted,No,Ana
+L-012,LinkedIn,2026-08-06,Qualified,Yes,Carlos
+L-013,Website,2026-08-07,Qualified,Yes,Sidney
+L-014,Referral,2026-08-07,Contacted,No,Ana
+L-015,Cold Outreach,2026-08-08,Qualified,Yes,Carlos
+L-016,LinkedIn,2026-08-08,Qualified,Yes,Sidney
+L-017,Website,2026-08-09,Contacted,No,Ana
+L-018,Referral,2026-08-09,Qualified,Yes,Carlos
+L-019,Cold Outreach,2026-08-10,Qualified,Yes,Sidney
+L-020,LinkedIn,2026-08-10,Contacted,No,Ana
+L-021,Website,2026-08-11,Qualified,Yes,Carlos
+L-022,Referral,2026-08-11,Qualified,Yes,Sidney
+L-023,LinkedIn,2026-08-12,Contacted,No,Ana
+L-024,Cold Outreach,2026-08-12,Qualified,Yes,Carlos
+L-025,Website,2026-08-13,Qualified,Yes,Sidney
+L-026,Referral,2026-08-13,Contacted,No,Ana
+L-027,LinkedIn,2026-08-14,Qualified,Yes,Carlos
+L-028,Website,2026-08-14,Qualified,Yes,Sidney
+L-029,Cold Outreach,2026-08-15,Qualified,Yes,Ana
+L-030,Referral,2026-08-15,Contacted,No,Carlos
+L-031,LinkedIn,2026-08-16,Qualified,Yes,Sidney
+L-032,Website,2026-08-16,Qualified,Yes,Ana
+L-033,Referral,2026-08-17,Qualified,Yes,Carlos
+L-034,Cold Outreach,2026-08-17,Contacted,No,Sidney
+L-035,LinkedIn,2026-08-18,Qualified,Yes,Ana
+L-036,Website,2026-08-18,Qualified,Yes,Carlos
+L-037,Referral,2026-08-18,Contacted,No,Sidney
+L-038,Cold Outreach,2026-08-18,Qualified,Yes,Ana
+L-039,LinkedIn,2026-08-18,Qualified,Yes,Carlos
+L-040,Website,2026-08-18,Contacted,No,Sidney
+L-041,Referral,2026-08-18,Qualified,Yes,Ana
+L-042,LinkedIn,2026-08-18,Qualified,Yes,Carlos
+L-043,Website,2026-08-18,Contacted,No,Sidney
+L-044,Referral,2026-08-18,Qualified,Yes,Ana
+L-045,Cold Outreach,2026-08-18,Qualified,Yes,Carlos

@@ -1,0 +1,41 @@
+Opportunity ID,Lead Source,Stage,Deal Value,Probability,Created Date,Close Date,Owner,Status,Weighted Pipeline,Days to Close
+OP-001,LinkedIn,Qualified,5000,0.3,2026-08-01,2026-08-28,Sidney,Open,1500,27
+OP-002,Referral,Proposal,8000,0.6,2026-08-02,2026-08-25,Ana,Open,4800,23
+OP-003,Website,Negotiation,12000,0.8,2026-08-03,2026-08-22,Carlos,Open,9600,19
+OP-004,LinkedIn,Closed Won,6000,1.0,2026-08-04,2026-08-15,Sidney,Won,6000,11
+OP-005,Cold Outreach,Closed Lost,4000,0.0,2026-08-05,2026-08-12,Ana,Lost,0,7
+OP-006,Referral,Discovery,7000,0.2,2026-08-06,2026-09-02,Carlos,Open,1400,27
+OP-007,Website,Qualified,9500,0.3,2026-08-07,2026-08-30,Sidney,Open,2850,23
+OP-008,LinkedIn,Proposal,11000,0.6,2026-08-08,2026-08-27,Ana,Open,6600,19
+OP-009,Cold Outreach,Negotiation,15000,0.8,2026-08-09,2026-08-29,Carlos,Open,12000,20
+OP-010,Referral,Closed Won,7500,1.0,2026-08-10,2026-08-18,Sidney,Won,7500,8
+OP-011,Website,Discovery,4500,0.2,2026-08-10,2026-09-05,Ana,Open,900,26
+OP-012,LinkedIn,Qualified,13000,0.3,2026-08-11,2026-09-01,Carlos,Open,3900,21
+OP-013,Referral,Proposal,9000,0.6,2026-08-11,2026-08-26,Sidney,Open,5400,15
+OP-014,Cold Outreach,Negotiation,18000,0.8,2026-08-12,2026-08-31,Ana,Open,14400,19
+OP-015,Website,Closed Won,10000,1.0,2026-08-12,2026-08-19,Carlos,Won,10000,7
+OP-016,LinkedIn,Discovery,5500,0.2,2026-08-13,2026-09-08,Sidney,Open,1100,26
+OP-017,Referral,Qualified,8500,0.3,2026-08-13,2026-09-03,Ana,Open,2550,21
+OP-018,Website,Proposal,14000,0.6,2026-08-14,2026-08-28,Carlos,Open,8400,14
+OP-019,Cold Outreach,Negotiation,16000,0.8,2026-08-14,2026-09-04,Sidney,Open,12800,21
+OP-020,LinkedIn,Closed Lost,6500,0.0,2026-08-15,2026-08-20,Ana,Lost,0,5
+OP-021,Referral,Discovery,6000,0.2,2026-08-15,2026-09-10,Carlos,Open,1200,26
+OP-022,Website,Qualified,10500,0.3,2026-08-16,2026-09-06,Sidney,Open,3150,21
+OP-023,LinkedIn,Proposal,12500,0.6,2026-08-16,2026-08-30,Ana,Open,7500,14
+OP-024,Referral,Negotiation,20000,0.8,2026-08-17,2026-09-02,Carlos,Open,16000,16
+OP-025,Cold Outreach,Closed Won,8500,1.0,2026-08-17,2026-08-20,Sidney,Won,8500,3
+OP-026,Website,Discovery,5000,0.2,2026-08-18,2026-09-12,Ana,Open,1000,25
+OP-027,LinkedIn,Qualified,11500,0.3,2026-08-18,2026-09-05,Carlos,Open,3450,18
+OP-028,Referral,Proposal,15500,0.6,2026-08-18,2026-09-01,Sidney,Open,9300,14
+OP-029,Cold Outreach,Negotiation,22000,0.8,2026-08-18,2026-09-08,Ana,Open,17600,21
+OP-030,Website,Closed Won,9000,1.0,2026-08-18,2026-08-21,Carlos,Won,9000,3
+OP-031,LinkedIn,Discovery,6500,0.2,2026-08-18,2026-09-15,Sidney,Open,1300,28
+OP-032,Referral,Qualified,10000,0.3,2026-08-18,2026-09-07,Ana,Open,3000,20
+OP-033,Website,Proposal,17000,0.6,2026-08-18,2026-09-04,Carlos,Open,10200,17
+OP-034,Cold Outreach,Negotiation,19500,0.8,2026-08-18,2026-09-10,Sidney,Open,15600,23
+OP-035,LinkedIn,Closed Lost,7000,0.0,2026-08-18,2026-08-22,Ana,Lost,0,4
+OP-036,Referral,Discovery,8000,0.2,2026-08-18,2026-09-17,Carlos,Open,1600,30
+OP-037,Website,Qualified,13500,0.3,2026-08-18,2026-09-09,Sidney,Open,4050,22
+OP-038,LinkedIn,Proposal,14500,0.6,2026-08-18,2026-09-06,Ana,Open,8700,19
+OP-039,Referral,Negotiation,25000,0.8,2026-08-18,2026-09-12,Carlos,Open,20000,25
+OP-040,Cold Outreach,Closed Won,11000,1.0,2026-08-18,2026-08-25,Sidney,Won,11000,7
